@@ -1,1 +1,1 @@
-# testingPlguin
+# testingPlugin
